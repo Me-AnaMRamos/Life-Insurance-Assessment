@@ -2,7 +2,7 @@
 This repository focuses on developing a deep neural network model to predict risk ratings for life insurance applicants.
 
 ## Project Overview
-The core of this project lies in the Life_Insurance_Assessment.ipynb notebook, where the development and implementation of the predictive model take place. Additionally, we offer an interactive learning experience through the LIA_Hyperparameter_tutorial.ipynb notebook. This tutorial guides users through the process of building a Multi-Layer Perceptron (MLP) model step by step, offering graded exercises to reinforce understanding.
+The core of this project lies in the Life_Insurance_Assessment.ipynb notebook, where the development and implementation of the predictive model take place. Additionally, we offer an interactive learning experience through the LIA_Hyperparameter_tutorial.ipynb notebook. This tutorial guides users through the process of building and optimizing a Multi-Layer Perceptron (MLP) model step by step, offering graded exercises to reinforce understanding.
 
 ### Interactive Tutorial
 File: LIA_Hyperparameter_tutorial.ipynb
