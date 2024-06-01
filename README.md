@@ -1,4 +1,4 @@
-# Life Insurance Assessment
+# Multilayer Perceptron for Life Insurance Assessment
 This repository focuses on developing a deep neural network model to predict risk ratings for life insurance applicants.
 
 ## Project Overview
